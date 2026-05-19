@@ -20,7 +20,7 @@ run again every few months, updating what's already there.
 
 - **`memory-tune-up.skill`** — the installable skill file. Use this if your AI
   environment supports skill uploads (see install instructions below).
-- **`skill-source/SKILL.md`** — the same skill as plain text. Use this if you
+- **`SKILL.md`** — the same skill as plain text. Use this if you
   can't install a skill file, you can paste its contents into a project's
   instructions or into a chat.
 - **`HOW-TO-USE.md`** — step-by-step setup and install instructions for both
