@@ -27,7 +27,7 @@ The skill will take it from there.
 
 Use this if you can't install a skill file.
 
-1. Open `skill-source/SKILL.md` from this folder.
+1. Open `SKILL.md` from this folder.
 2. Copy everything in it.
 3. Paste it into either:
    - a project's custom instructions, if your AI supports projects, or
